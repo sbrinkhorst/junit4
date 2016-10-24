@@ -2,3 +2,5 @@ component_depth: 5
 languages:
 - java
 - javascript
+exclude:
+- .*/resources/scripts/index.js
